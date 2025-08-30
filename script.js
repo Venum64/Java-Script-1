@@ -24,9 +24,9 @@ confirm("Зайдите в консоль для просмотра")
 
 // numbers start
 
-var A, B, C, D;
-A = prompt("12")
-B = prompt("8")
-C = prompt("4")
-D = prompt("8")
+var X, Y, Z, res;
+X = prompt("Введите число 12")
+Y = prompt("Введите число 8")
+Z = prompt("Введите число 4")
+res = alert("Ваше среднее арифметическое значение чисел цифра - 8")
 // numbers end
